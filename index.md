@@ -1,6 +1,4 @@
----
- ![](https://avatars3.githubusercontent.com/u/2385891?s=460&v=4) layout: default
----
+
 
 # [](#阿米酷)阿米酷
 
@@ -21,7 +19,7 @@
 专注和擅长  [Focus On] 
 ```
 
-*   FrontEnd: JavaScript / React | React Native / WebPack /
+*   FrontEnd: JavaScript / React / React Native / WebPack / HTML(5) / CSS(3) / SASS(LESS) / jQuery / Cordova / BootStrap
 *   Backend: PHP + MySQL
 *   Designer: Photoshop + CorelDRAW
 *   OS: Linux / Windows/ Mac
