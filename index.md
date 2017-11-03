@@ -17,7 +17,7 @@
 [Focus On] 专注和擅长  
 ```
 
-*   FrontEnd: JavaScript / React / React Native / WebPack / HTML(5) / CSS(3) / SASS(LESS) / jQuery / Cordova / BootStrap
+*   FrontEnd: JavaScript / ES6 / React / React Native / WebPack / HTML(5) / CSS(3) / SASS(LESS) / jQuery / Cordova / BootStrap
 *   Backend: PHP + MySQL
 *   Designer: Photoshop + CorelDRAW
 *   OS: Linux / Windows/ Mac
